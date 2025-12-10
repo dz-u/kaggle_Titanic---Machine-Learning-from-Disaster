@@ -1,7 +1,9 @@
 # titanic
 
 ## 概要
-機械学習プロジェクトの説明
+Titanic - Machine Learning from Disaster
+https://www.kaggle.com/competitions/titanic/overview
+
 
 ## ディレクトリ構成
 
@@ -14,4 +16,3 @@
 
 ## 実行環境
 - Google Colab
-- Python 3.x
